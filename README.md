@@ -10,7 +10,7 @@ inside the file there is a main function which run all the code for this part us
 command : 
 python fastaq_analyze.py -i <input_fastq_file> -o <output_directory>
 
-###############################
+
 part 2
 sam_analyze.py
 inside the file there is a main function which run all the code for this part using two functions :
