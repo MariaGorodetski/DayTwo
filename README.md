@@ -34,3 +34,5 @@ python sam_analyze.py -i <input_sam_file> -o <output_directory>
 
 
    
+** if I had some more time I would probably made the code more readble and correct written.
+Also it is always better to have some more logs, try-excepts and tests.. 
